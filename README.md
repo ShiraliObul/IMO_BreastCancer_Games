@@ -1,6 +1,6 @@
 # IMO_BreastCancer_EvolutionaryGameTheory (EGT)
 
-
+![IMG_3966](https://user-images.githubusercontent.com/65901034/199336365-a469263f-4ebf-4319-92f6-23a1b8b1a381.jpg)
 
 # Googlecolab 
 https://colab.research.google.com/drive/1PUSnLtl5WRZGjuR44zrXS7DZ59TL6pAy?usp=sharing
