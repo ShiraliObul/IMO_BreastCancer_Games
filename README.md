@@ -17,4 +17,7 @@ https://colab.research.google.com/drive/1PUSnLtl5WRZGjuR44zrXS7DZ59TL6pAy?usp=sh
 # Resources for EGT code
 [egtplot/egtplot_demonstration.ipynb at master · mirzaevinom/egtplot](https://github.com/mirzaevinom/egtplot/blob/master/egtplot_demonstration.ipynb)
 
+# Overleaf documentation 
+https://www.overleaf.com/4689443889ntycjykhgmfc
+
 
