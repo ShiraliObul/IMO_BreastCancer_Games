@@ -21,4 +21,11 @@ https://colab.research.google.com/drive/1PUSnLtl5WRZGjuR44zrXS7DZ59TL6pAy?usp=sh
 - Game Theoretical Models for Breast Cancer Metastasis
 - https://www.overleaf.com/4689443889ntycjykhgmfc
 
+# Results:
+- No drug scinario:
+ - Eqalibrium
+  - ![Unknown](https://user-images.githubusercontent.com/65901034/199766323-18e0aeca-f153-4d9d-baf4-c850cdea03f5.png)
 
+ - Proportion of three populations in the game 
+
+  - ![Unknown-2](https://user-images.githubusercontent.com/65901034/199766493-9e629150-df3d-4db4-97b9-180f77195575.png)
