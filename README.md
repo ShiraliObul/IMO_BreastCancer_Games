@@ -22,8 +22,12 @@ https://colab.research.google.com/drive/1PUSnLtl5WRZGjuR44zrXS7DZ59TL6pAy?usp=sh
 - https://www.overleaf.com/4689443889ntycjykhgmfc
 
 # Results:
-- No drug scinario:
- - Eqalibrium
+### No drug scinario: 
+    - Aim (proportions)
+    - Primary/Macromet = 15% of tumor is JNK+
+    - Micromet = 60% of tumor is JNK+
+    - Fibroblasts - fixed at approximately 10% of the population
+ - Equilibrium
   - ![Unknown](https://user-images.githubusercontent.com/65901034/199766323-18e0aeca-f153-4d9d-baf4-c850cdea03f5.png)
 
  - Proportion of three populations in the game 
