@@ -28,8 +28,8 @@ https://colab.research.google.com/drive/1PUSnLtl5WRZGjuR44zrXS7DZ59TL6pAy?usp=sh
     - Micromet = 60% of tumor is JNK+
     - Fibroblasts - fixed at approximately 10% of the population
  - Equilibrium
-  - ![Unknown](https://user-images.githubusercontent.com/65901034/199766323-18e0aeca-f153-4d9d-baf4-c850cdea03f5.png)
+  - ![Unknown](https://user-images.githubusercontent.com/65901034/199859557-52dc93ab-abc5-4e5a-99ad-4fda257b42ca.png)
 
  - Proportion of three populations in the game 
 
-  - ![Unknown-2](https://user-images.githubusercontent.com/65901034/199766493-9e629150-df3d-4db4-97b9-180f77195575.png)
+ - ![Unknown copy](https://user-images.githubusercontent.com/65901034/199859568-171b571a-8c77-4fbf-8d8c-9458f116367b.png)
