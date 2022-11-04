@@ -22,6 +22,9 @@ https://colab.research.google.com/drive/1PUSnLtl5WRZGjuR44zrXS7DZ59TL6pAy?usp=sh
 - https://www.overleaf.com/4689443889ntycjykhgmfc
 
 # Results:
+- Matrix for the model:
+<img width="782" alt="Screen Shot 2022-11-03 at 8 28 18 PM" src="https://user-images.githubusercontent.com/65901034/199859752-9d74c031-6c61-4fff-be14-80bb35edc94a.png">
+
 ### No drug scinario: 
     - Aim (proportions)
     - Primary/Macromet = 15% of tumor is JNK+
